@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 const deg = 6;
+=======
+const deg = 5;
+>>>>>>> f421883d8220bcb666939537ec0d1313a9a75f31
 const hr = document.querySelector('#hr');
 const mn = document.querySelector('#mn');
 const sc = document.querySelector('#sc');
